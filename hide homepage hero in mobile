@@ -1,0 +1,5 @@
+@media (max-width:414px) {
+  section.hero-container.webp-check {
+    display: none;
+  }
+}
